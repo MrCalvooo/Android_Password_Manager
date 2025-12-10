@@ -9,7 +9,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.imontalvodev.passwordgencontainer"
+        applicationId = "com.imontalvodev.passwordmanager"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

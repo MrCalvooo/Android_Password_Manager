@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Editar contraseña"
+        android:id="@+id/editPassword"/>
+    <item android:title="Eliminar contraseña"
+        android:id="@+id/deletePassword"/>
+</menu>
