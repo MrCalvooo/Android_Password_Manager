@@ -1,0 +1,84 @@
+# Built application files
+*.apk
+*.ap_ 
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration files
+local.properties
+.idea/
+*.iml
+
+# Android Studio specific
+.DS_Store
+*.hprof
+
+# Logs
+*.log
+
+# User-specific files
+*.swp
+*.swo
+
+# IntelliJ IDEA files
+.idea/
+.idea_modules/
+
+# NDK
+.local/
+ndk-build/
+
+# Android generated files
+*.class
+*.dex
+*.jar
+*.ap_
+*.tar.gz
+*.zip
+*.jar
+
+# Proguard configuration
+proguard/
+
+# Generated files from building the app
+/build/
+*/build/
+
+# Kotlin build files
+*.kotlin_metadata
+
+# Gradle wrapper files
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Keystore files (don't commit them, use environment variables or other secure ways to manage them)
+*.jks
+*.keystore
+
+# IntelliJ IDEA and Android Studio IDE specific files
+.idea/
+*.iml
+
+# Android Studio config
+*.iml
+
+# Gradle caches
+.gradle/
+
+# Test output directories
+**/test-*/ 
+**/androidTest-*/ 
+*/test*/ 
+*/androidTest*/
+
+# Test coverage
+coverage/
+*.gcno
+*.gcda
+
+# Test result logs
+test-*/ 
+*.test/
+
